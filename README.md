@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me Isack Vitor, tenho 24 anos e sou natural do Espirito Santo. Concluí o ensino médio no maria ortiz. Atualmente, estou cursando Ciência da Computação na ESTÁCIO. Sou apaixonado por tecnologia.
+Me chamo Isack Vitor, tenho 24 anos e sou natural do Espirito Santo. Concluí o ensino médio no maria ortiz. Atualmente, estou cursando Ciência da Computação na ESTÁCIO. Sou apaixonado por tecnologia.
 
 ---
 
