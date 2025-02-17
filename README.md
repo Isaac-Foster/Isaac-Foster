@@ -82,7 +82,7 @@ Me chamo Isack Vitor, tenho 24 anos e sou natural do Espirito Santo. Concluí o 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="160" 
+    height="150" 
     style="padding-right: 8px;" 
     src="https://github-readme-stats.vercel.app/api?username=Isaac-Foster&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -90,7 +90,7 @@ Me chamo Isack Vitor, tenho 24 anos e sou natural do Espirito Santo. Concluí o 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="160" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Foster&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
