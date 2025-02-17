@@ -78,9 +78,10 @@ Me chamo Isack Vitor, tenho 24 anos e sou natural do Espirito Santo. Concluí o 
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=williandeitosi&theme=nightowl&bg_color=000000&title_color=9A5CB6&text_color=57A0D3&icon_color=9A5CB6&hide_border=true&include_all_commits=true&count_private=false)
-<br/>
+<p>
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isaac-Foster&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
