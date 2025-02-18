@@ -80,13 +80,13 @@ Me chamo Isack Vitor, tenho 24 anos e sou natural do Espirito Santo. Concluí o 
 
 <p>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isaac-Foster&show_icons=true&theme=nightow&include_all_commits=true&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isaac-Foster&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br)
 <br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Foster&theme=nightow&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Foster&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
