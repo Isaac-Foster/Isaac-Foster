@@ -76,7 +76,7 @@ Me chamo Isack Vitor, tenho 24 anos e sou natural do Espirito Santo. Concluí o 
 <br/>
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isaac-Foster&theme=gruvbox&bg_color=000000&title_color=9A5CB6&text_color=57A0D3&icon_color=9A5CB6&hide_border=true&include_all_commits=true&count_private=false)
 <br/>
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Foster&theme=gruvbox&bg_color=000000&title_color=9A5CB6&text_color=57A0D3&hide_border=true&layout=compact&exclude_repo=html,css)
