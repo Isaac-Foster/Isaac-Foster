@@ -84,9 +84,9 @@ Me chamo Isack Vitor, tenho 24 anos e sou natural do Espirito Santo. Concluí o 
 
  
 <div> 
-  <a href="https://instagram.com/decoxd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andre.devfront@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andre-pinheiro-54a5a1237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://t.me/lzaacFoster" target="_blank"><img src="https://img.icons8.com/?size=100&id=UIL5ogsYIbpU&format=png&color=000000" target="_blank"></a>
+  <a href = "mailto:isack.foster.ofc@gmail.com"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isack-foster/" target="_blank"><img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" target="_blank"></a> 
 </div>
 
 ### 📊 GitHub Estatísticas
