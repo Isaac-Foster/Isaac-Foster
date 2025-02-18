@@ -54,7 +54,7 @@ Me chamo Isack Vitor, tenho 24 anos e sou natural do Espirito Santo. Concluí o 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="redis" />
-      <br>nodejs
+      <br>Nodejs
     </td>
     
   </tr>
@@ -69,14 +69,14 @@ Me chamo Isack Vitor, tenho 24 anos e sou natural do Espirito Santo. Concluí o 
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="rabbitmq" />
-      <br>rabbitmq
+      <br>Rabbitmq
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
       <br>Postgres
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
-      <br>flask
+      <br>Flask
     </td>
  </tr>
 </table>
