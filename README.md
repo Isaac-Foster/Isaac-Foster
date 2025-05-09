@@ -3,81 +3,80 @@
 **`Desenvolvedor Backend`**
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Isaac-Foster/Isaac-Foster/output/profile-3d-contrib/profile-dark.svg" />
 </div>
 
 Me chamo Isack Vitor, tenho 24 anos e sou natural do Espírito Santo. Concluí o ensino médio no Maria Ortiz. Atualmente, estou cursando Ciência da Computação na ESTÁCIO. Sou apaixonado por tecnologia.
 
 ---
 
-### 🤖 Linguagens e Tecnologias 
+### 🤖 Linguagens e Tecnologias
+
 <div style="display: flex; align-items: flex-start; justify-content:flex-start" >
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="django" />
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" />
       <br>Django
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
-      <br>FastApi
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" />
+      <br>FastAPI
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="jQuery" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" />
       <br>Rest API
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="redis" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="redis" />
-      <br>Nodejs
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+      <br>Node.js
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" />
       <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
+      <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" />
       <br>Selenium
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="rabbitmq" />
-      <br>Rabbitmq
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" />
+      <br>RabbitMQ
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
       <br>Postgres
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" />
       <br>Flask
     </td>
   </tr>
@@ -86,10 +85,16 @@ Me chamo Isack Vitor, tenho 24 anos e sou natural do Espírito Santo. Concluí o
 
 <br><br>
 
-<div> 
-  <a href="https://t.me/lzaacFoster" target="_blank"><img src="https://img.icons8.com/?size=100&id=UIL5ogsYIbpU&format=png&color=000000" target="_blank"></a>
-  <a href="mailto:isack.foster.ofc@gmail.com"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isack-foster/" target="_blank"><img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" target="_blank"></a> 
+<div>
+  <a href="https://t.me/lzaacFoster" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=UIL5ogsYIbpU&format=png&color=000000" />
+  </a>
+  <a href="mailto:isack.foster.ofc@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/isack-foster/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" />
+  </a>
 </div>
 
 ---
