@@ -2,12 +2,9 @@
 
 **`Desenvolvedor Backend`**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Isaac-Foster/Isaac-Foster/output/profile-3d-contrib/profile-dark.svg" />
-</div>
-
 Me chamo Isack Vitor, tenho 24 anos e sou natural do Espírito Santo. Concluí o ensino médio no Maria Ortiz. Atualmente, estou cursando Ciência da Computação na ESTÁCIO. Sou apaixonado por tecnologia.
 
+![Como comecei a me interessar na area](https://telegra.ph/como-iniciei-na-%C3%A1rea-de-tecnologia-06-08)
 ---
 
 ### 🤖 Linguagens e Tecnologias
