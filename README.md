@@ -42,7 +42,7 @@
 
 ### 🚀 Sobre Mim
 
-Me chamo **Isack Vitor**, tenho 25 anos e sou natural do Espírito Santo. Atualmente, estou cursando **Ciência da Computação na ESTÁCIO** e desenvolvendo soluções na **Fix Team**.
+Me chamo **Isack Vitor**, tenho 26 anos e sou natural do Espírito Santo. Atualmente, estou cursando **Ciência da Computação na ESTÁCIO** e desenvolvendo soluções na **Fix Team**.
 
 - 🔭 Desenvolvedor focado em **Backend**, criação de **APIs RESTful escaláveis** e arquitetura de microsserviços.
 - ⚡ Sólido domínio no ecossistema **Python** (FastAPI, Django, Flask) e **Node.js** com JavaScript/TypeScript.
