@@ -1,0 +1,63 @@
+name: Auto Update Age
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa todo dia à meia-noite
+  workflow_dispatch: # Permite execução manual a qualquer momento via aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate and Update Age
+        run: |
+          python3 -c "
+          from datetime import date
+          import re, json
+
+          # Data de nascimento: 28/08/2000
+          birth = date(2000, 8, 28)
+          today = date.today()
+          age = today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day))
+          
+          # Atualiza README.md mantendo tags delimitadoras
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          updated_content = re.sub(
+              r'<!-- AGE:START -->.*?<!-- AGE:END -->',
+              f'<!-- AGE:START -->{age}<!-- AGE:END -->',
+              content
+          )
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated_content)
+
+          # Atualiza endpoint JSON para badges dinâmicas
+          badge_data = {
+              'schemaVersion': 1,
+              'label': 'idade',
+              'message': f'{age} anos',
+              'color': '00f0ff',
+              'labelColor': '161b22',
+              'style': 'flat-square'
+          }
+          with open('assets/age.json', 'w', encoding='utf-8') as f:
+              json.dump(badge_data, f, indent=2)
+
+          print(f'Idade calculada: {age} anos')
+          "
+
+      - name: Commit & Push changes if updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/age.json
+          git commit -m "chore(profile): auto-update age [skip ci]" || echo "Idade inalterada"
+          git push
