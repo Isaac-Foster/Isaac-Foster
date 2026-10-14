@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title">
+<title id="title">Co-op unlocked — Vamos construir a próxima missão. APIs, bots e automação. Iniciar conversa no Telegram.</title>
+<defs><linearGradient id="bg"><stop stop-color="#0c2331"/><stop offset="1" stop-color="#101426"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="168" rx="12" fill="url(#bg)" stroke="#28546a"/>
+<path d="M0 35V0h100" fill="none" stroke="#00e5ff" stroke-width="4"/>
+<g font-family="sans-serif"><text x="44" y="44" fill="#00e5ff" font-family="monospace" font-size="13" letter-spacing="4">CO-OP UNLOCKED</text><text x="42" y="92" fill="#edf6ff" font-size="32" font-weight="700">Vamos construir a próxima missão?</text><text x="44" y="127" fill="#99b2c9" font-size="16">Uma API. Um bot. Menos trabalho manual. Mais possibilidades.</text></g>
+<rect x="868" y="58" width="284" height="54" rx="7" fill="#00e5ff"/>
+<text x="1010" y="91" text-anchor="middle" fill="#08131c" font-family="monospace" font-weight="700" font-size="17">INICIAR CONVERSA ↗</text>
+</svg>

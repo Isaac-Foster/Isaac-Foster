@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+<title id="title">Isack Vitor — Backend Developer</title>
+<desc id="desc">HUD sci-fi com tipografia grande, portal luminoso, terminal Python e acentos ciano e âmbar. Fix Team. Backend, APIs e automação.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e1b"/><stop offset="1" stop-color="#101828"/></linearGradient>
+  <linearGradient id="cyan"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#6c70ff"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#00d9ff" stop-opacity=".22"/><stop offset="1" stop-color="#00d9ff" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#68b7cf" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="510" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="510" rx="18" fill="url(#grid)"/>
+<circle cx="945" cy="236" r="260" fill="url(#halo)"/>
+<path d="M0 0h1200" stroke="url(#cyan)" stroke-width="5"/>
+<path d="M30 70V30h60M1110 30h60v40M30 440v40h60M1110 480h60v-40" fill="none" stroke="#00e5ff" stroke-opacity=".7" stroke-width="2"/>
+<g font-family="monospace">
+<rect x="58" y="48" width="192" height="30" rx="15" fill="#00e5ff" fill-opacity=".09" stroke="#00e5ff" stroke-opacity=".35"/>
+<circle cx="76" cy="63" r="4" fill="#00e5ff"/>
+<text x="90" y="68" fill="#8df3ff" font-size="12" letter-spacing="2">PLAYER PROFILE / 01</text>
+<text x="1135" y="68" text-anchor="end" fill="#7792ab" font-size="12" letter-spacing="3">FIX TEAM // BRASIL</text>
+<text x="58" y="134" fill="#f0bc73" font-size="14" letter-spacing="5">BUILD SYSTEMS. SURVIVE CHAOS.</text>
+<text x="53" y="214" fill="#f1f6ff" font-family="sans-serif" font-weight="900" font-size="79" letter-spacing="-3">ISACK VITOR</text>
+<text x="58" y="256" fill="#00e5ff" font-size="22" letter-spacing="4">BACKEND DEVELOPER</text>
+<text x="58" y="301" fill="#a7b8cd" font-size="17">APIs que conectam. Bots que executam.</text>
+<text x="58" y="329" fill="#a7b8cd" font-size="17">Automação que libera tempo.</text>
+<rect x="58" y="365" width="110" height="32" rx="5" fill="#163143"/><text x="113" y="386" text-anchor="middle" fill="#8df3ff" font-size="13">PYTHON</text>
+<rect x="180" y="365" width="110" height="32" rx="5" fill="#163143"/><text x="235" y="386" text-anchor="middle" fill="#8df3ff" font-size="13">FASTAPI</text>
+<rect x="302" y="365" width="110" height="32" rx="5" fill="#163143"/><text x="357" y="386" text-anchor="middle" fill="#8df3ff" font-size="13">AUTOMATION</text>
+<path d="M58 428h1084" stroke="#253b50"/>
+<text x="58" y="460" fill="#6c859e" font-size="12" letter-spacing="2">ES, BR / CIÊNCIA DA COMPUTAÇÃO / FIX TEAM</text>
+<text x="1142" y="460" text-anchor="end" fill="#f0bc73" font-size="12" letter-spacing="2">REST · RETRY · REBUILD</text>
+</g>
+<g transform="translate(946 228)" fill="none">
+<circle r="139" stroke="#00e5ff" stroke-opacity=".08" stroke-width="25"/>
+<circle r="136" stroke="#00e5ff" stroke-opacity=".4" stroke-dasharray="160 30 8 30"/>
+<circle r="115" stroke="url(#cyan)" stroke-width="3" stroke-dasharray="210 45 80 45"/>
+<circle r="95" stroke="#738baf" stroke-opacity=".3" stroke-dasharray="2 10" stroke-width="5"/>
+<path d="M-170 0h40M130 0h40M0-170v40M0 130v40" stroke="#00e5ff"/>
+<path d="M-35-32l-32 32 32 32M35-32L67 0 35 32M15-48l-30 96" stroke="#a0f7ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="95" cy="-95" r="6" fill="#f0bc73"/>
+</g>
+<rect x="768" y="328" width="356" height="69" rx="7" fill="#080e1b" stroke="#2b485d"/>
+<g font-family="monospace" font-size="12"><text x="787" y="352" fill="#00e5ff">❯ await build_next_mission()</text><text x="787" y="377" fill="#87a3b9">[ready] APIs / bots / integrations</text></g>
+</svg>
