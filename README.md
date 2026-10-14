@@ -1,44 +1,44 @@
 <div align="center">
 
-  <!-- TECH WORKSPACE BANNER (Vector Dark Mode Illustration) -->
+  <!-- THE LAST OF US PART II // DEVELOPER WORKSTATION BANNER -->
   <a href="https://github.com/Isaac-Foster">
-    <img src="assets/tech-banner.jpg" width="100%" alt="Isack Vitor — Backend Developer & Automation Engineer" style="border-radius: 8px; box-shadow: 0 16px 40px rgba(0, 240, 255, 0.1);" />
+    <img src="assets/tlou2-banner.jpg" width="100%" alt="The Last of Us Part II — Isack Vitor Workstation" style="border-radius: 8px; box-shadow: 0 16px 40px rgba(0, 0, 0, 0.85);" />
   </a>
 
   <br/><br/>
 
-  <!-- PROFILE VIEWS -->
+  <!-- PROFILE VIEWS (TLOU2 Amber) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Isaac-Foster&color=00f0ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Isaac-Foster&color=e5a93b&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </p>
 
-  <!-- TYPING SVG (FixTeam Cyan) -->
+  <!-- TYPING SVG (TLOU2 Amber) -->
   <a href="https://github.com/Isaac-Foster">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Isack+Vitor;Desenvolvedor+Backend+Python+%26+Node.js;Fix+Team+%E2%80%A2+Solu%C3%A7%C3%B5es+em+Tecnologia;FastAPI+%E2%80%A2+Django+%E2%80%A2+Flask+%E2%80%A2+Node.js;Automa%C3%A7%C3%A3o+%26+RPA+Avan%C3%A7ado+com+Selenium;APIs+RESTful%2C+Microsservi%C3%A7os+e+Mensageria" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&color=E5A93B&center=true&vCenter=true&width=700&height=50&lines=Ol%C3%A1%2C+eu+sou+o+Isack+Vitor;Desenvolvedor+Backend+Python+%26+Node.js;Fix+Team+%E2%80%A2+Solu%C3%A7%C3%B5es+em+Tecnologia;FastAPI+%E2%80%A2+Django+%E2%80%A2+Flask+%E2%80%A2+Node.js;Automa%C3%A7%C3%A3o+%26+RPA+Avan%C3%A7ado+com+Selenium;%22Endure+and+survive.%22" alt="Typing SVG" />
   </a>
 
   <p><b>Desenvolvedor Backend | Python • FastAPI • Django • Node.js • RPA</b></p>
 
-  <!-- SOCIAL & PORTFOLIO LINKS (Clean Flat-Square Badges) -->
+  <!-- SOCIAL & PORTFOLIO LINKS (Flat-Square Badges) -->
   <div style="margin-top: 10px; margin-bottom: 16px;">
     <a href="https://www.linkedin.com/in/isack-foster/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00f0ff&labelColor=161b22" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=e5a93b&labelColor=161b22" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://t.me/lzaacFoster" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=00f0ff&labelColor=161b22" alt="Telegram" />
+      <img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=7a9a60&labelColor=161b22" alt="Telegram" />
     </a>
     &nbsp;
     <a href="mailto:isack.foster.ofc@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=00f0ff&labelColor=161b22" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=e5a93b&labelColor=161b22" alt="Gmail" />
     </a>
     &nbsp;
     <a href="https://isaac-foster.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-0d1117?style=flat-square&logo=googlechrome&logoColor=00f0ff&labelColor=161b22" alt="Portfólio" />
+      <img src="https://img.shields.io/badge/Portfólio-0d1117?style=flat-square&logo=googlechrome&logoColor=7a9a60&labelColor=161b22" alt="Portfólio" />
     </a>
     &nbsp;
     <a href="https://github.com/Isaac-Foster" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00f0ff&labelColor=161b22" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=e5a93b&labelColor=161b22" alt="GitHub" />
     </a>
   </div>
 
@@ -126,7 +126,7 @@ Me chamo **Isack Vitor**, tenho <!-- AGE:START -->26<!-- AGE:END --> anos e sou 
       </a>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/PROJETO-RASTREAMENTO_CORREIOS-0d1117?style=flat-square&labelColor=161b22&color=00f0ff" alt="Tag" />
+      <img src="https://img.shields.io/badge/PROJETO-RASTREAMENTO_CORREIOS-0d1117?style=flat-square&labelColor=161b22&color=7a9a60" alt="Tag" />
       <h3>Andreza Correios — Bot de Rastreamento</h3>
       <p>
         Bot conversacional no Telegram para <b>monitoramento autônomo e rastreamento de encomendas em tempo real</b> diretamente conectado à API dos Correios. Disparo imediato de notificações push a cada alteração de rota, fiscalização ou entrega.
@@ -136,11 +136,11 @@ Me chamo **Isack Vitor**, tenho <!-- AGE:START -->26<!-- AGE:END --> anos e sou 
       </p>
       <p>
         <a href="https://t.me/Andreza_correios_bot" target="_blank">
-          <img src="https://img.shields.io/badge/Testar_Bot-0d1117?style=flat-square&logo=telegram&logoColor=00f0ff&labelColor=161b22" alt="Testar no Telegram" />
+          <img src="https://img.shields.io/badge/Testar_Bot-0d1117?style=flat-square&logo=telegram&logoColor=e5a93b&labelColor=161b22" alt="Testar no Telegram" />
         </a>
         &nbsp;
         <a href="https://www.linkedin.com/posts/isack-foster_andreza-correios-share-7456446986091716608-0RxP" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_no_LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00f0ff&labelColor=161b22" alt="Ver no LinkedIn" />
+          <img src="https://img.shields.io/badge/Ver_no_LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=7a9a60&labelColor=161b22" alt="Ver no LinkedIn" />
         </a>
       </p>
     </td>
@@ -158,7 +158,7 @@ Me chamo **Isack Vitor**, tenho <!-- AGE:START -->26<!-- AGE:END --> anos e sou 
       </a>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/PROJETO-RADAR_DE_OFERTAS-0d1117?style=flat-square&labelColor=161b22&color=00f0ff" alt="Tag" />
+      <img src="https://img.shields.io/badge/PROJETO-RADAR_DE_OFERTAS-0d1117?style=flat-square&labelColor=161b22&color=e5a93b" alt="Tag" />
       <h3>AYU — Deals &amp; Affiliate Engine (Fix Team)</h3>
       <p>
         Motor inteligente de varredura e monitoramento de promoções conectado diretamente à <b>API oficial da Shopee</b>. Conversão automatizada de links de afiliados, persistência, controle de concorrência com filas assíncronas e disparo massivo em alta frequência para canais do Telegram.
@@ -168,11 +168,11 @@ Me chamo **Isack Vitor**, tenho <!-- AGE:START -->26<!-- AGE:END --> anos e sou 
       </p>
       <p>
         <a href="https://t.me/ayupromobot" target="_blank">
-          <img src="https://img.shields.io/badge/Acessar_Bot-0d1117?style=flat-square&logo=telegram&logoColor=00f0ff&labelColor=161b22" alt="Acessar Bot" />
+          <img src="https://img.shields.io/badge/Acessar_Bot-0d1117?style=flat-square&logo=telegram&logoColor=e5a93b&labelColor=161b22" alt="Acessar Bot" />
         </a>
         &nbsp;
         <a href="https://t.me/AYUPROMOS" target="_blank">
-          <img src="https://img.shields.io/badge/Canal_Telegram-0d1117?style=flat-square&logo=telegram&logoColor=00f0ff&labelColor=161b22" alt="Canal Telegram" />
+          <img src="https://img.shields.io/badge/Canal_Telegram-0d1117?style=flat-square&logo=telegram&logoColor=7a9a60&labelColor=161b22" alt="Canal Telegram" />
         </a>
       </p>
     </td>
@@ -188,14 +188,14 @@ Me chamo **Isack Vitor**, tenho <!-- AGE:START -->26<!-- AGE:END --> anos e sou 
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/Isaac-Foster/linkedin_bot" target="_blank">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Isaac-Foster&repo=linkedin_bot&bg_color=0d1117&title_color=00f0ff&text_color=8b949e&icon_color=00f0ff&border_color=30363d&hide_border=false" width="100%" alt="linkedin_bot" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Isaac-Foster&repo=linkedin_bot&bg_color=0d1117&title_color=e5a93b&text_color=8b949e&icon_color=7a9a60&border_color=30363d&hide_border=false" width="100%" alt="linkedin_bot" />
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/Isaac-Foster/fastapi-login-boilerplate" target="_blank">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Isaac-Foster&repo=fastapi-login-boilerplate&bg_color=0d1117&title_color=00f0ff&text_color=8b949e&icon_color=00f0ff&border_color=30363d&hide_border=false" width="100%" alt="fastapi-login-boilerplate" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Isaac-Foster&repo=fastapi-login-boilerplate&bg_color=0d1117&title_color=e5a93b&text_color=8b949e&icon_color=7a9a60&border_color=30363d&hide_border=false" width="100%" alt="fastapi-login-boilerplate" />
         </a>
       </div>
     </td>
@@ -211,10 +211,10 @@ Me chamo **Isack Vitor**, tenho <!-- AGE:START -->26<!-- AGE:END --> anos e sou 
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isaac-Foster&show_icons=true&bg_color=0d1117&title_color=00f0ff&text_color=8b949e&icon_color=00f0ff&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isaac-Foster&show_icons=true&bg_color=0d1117&title_color=e5a93b&text_color=8b949e&icon_color=7a9a60&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isaac-Foster&bg_color=0d1117&title_color=00f0ff&text_color=8b949e&border_color=30363d&hide_border=false&layout=compact&exclude_repo=Isaac-Foster.github.io,NFe" height="195" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isaac-Foster&bg_color=0d1117&title_color=e5a93b&text_color=8b949e&border_color=30363d&hide_border=false&layout=compact&exclude_repo=Isaac-Foster.github.io,NFe" height="195" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -230,19 +230,19 @@ Me chamo **Isack Vitor**, tenho <!-- AGE:START -->26<!-- AGE:END --> anos e sou 
 
 <!-- FOOTER -->
 <div align="center">
-  <p><b>Vamos construir algo incrível juntos?</b></p>
+  <p><i>"Quando você estiver perdido na escuridão, procure a luz."</i> • <b>Endure and survive.</b></p>
   <div style="margin-top: 10px; margin-bottom: 12px;">
     <a href="https://t.me/lzaacFoster" target="_blank">
-      <img src="https://img.shields.io/badge/Conversar_no_Telegram-0d1117?style=flat-square&logo=telegram&logoColor=00f0ff&labelColor=161b22" alt="Falar no Telegram" />
+      <img src="https://img.shields.io/badge/Conversar_no_Telegram-0d1117?style=flat-square&logo=telegram&logoColor=e5a93b&labelColor=161b22" alt="Falar no Telegram" />
     </a>
     &nbsp;
     <a href="mailto:isack.foster.ofc@gmail.com">
-      <img src="https://img.shields.io/badge/Enviar_Email-0d1117?style=flat-square&logo=gmail&logoColor=00f0ff&labelColor=161b22" alt="Enviar E-mail" />
+      <img src="https://img.shields.io/badge/Enviar_Email-0d1117?style=flat-square&logo=gmail&logoColor=7a9a60&labelColor=161b22" alt="Enviar E-mail" />
     </a>
     &nbsp;
     <a href="https://isaac-foster.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Acessar_Portfólio-0d1117?style=flat-square&logo=googlechrome&logoColor=00f0ff&labelColor=161b22" alt="Portfólio" />
+      <img src="https://img.shields.io/badge/Acessar_Portfólio-0d1117?style=flat-square&logo=googlechrome&logoColor=e5a93b&labelColor=161b22" alt="Portfólio" />
     </a>
   </div>
-  <p><sub>Fix Team © 2026 • Desenvolvido com foco e performance por Isack Vitor</sub></p>
+  <p><sub>Fix Team © 2026 • Desenvolvido com resiliência por Isack Vitor</sub></p>
 </div>
