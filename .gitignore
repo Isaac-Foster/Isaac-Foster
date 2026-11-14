@@ -4,5 +4,3 @@ generate_banner.py
 generate_metrics_svg.py
 __pycache__/
 *.pyc
-config.bat
-node_modules
